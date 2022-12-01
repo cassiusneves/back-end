@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T00:30:29.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="7z6FhxWgk67MEbURw93P" version="20.6.0" type="github"><diagram id="NjA-gOduzKGkBE7OLg4Q" name="Página-1">1ZbJbtswEIafRpcCCbRZdY/x1gZNgBQ+FM0loElaIsJFoeitT9+hRMqWZaMpYLcoYMP08Jc4/P4ZSkEyFtvPGpXFoyKUB3FItkEyCeI4SuM4sJ+Q7JrIMB42gVwz4kT7wJz9pC4YuuiKEVp1hEYpbljZDWIlJcWmE0Naq01XtlS8u2qJctoLzDHi/eh3Rkzhd/FxH/9CWV74laPsUzMjkBe7nVQFImpzEEqmQTLWSplmJLZjyi08z6W5bnZmtk1MU2nec8Hi+XVWPWL29KYH36YvWHxd/LjJmrusEV+5Dbtkzc4TqIxWr+3mIe1RYQSHYQRD2FRpdWKbW/9vl1xtcIG0uUVSKoMMU/LFChFnuQQhp0vIdlQqJg3V0zUkX7l7uVSoNnR7do9RSw5KjipBjd6BxF0Qhw62q7bIw9/svfOVVRzYNkhdELlyydtb74nCwEH9A8BRD/C9DMZJcDfBTF2KNZAUTCKjNMg2BTN0XiJstRtQXgZtNOiizU6RPYE2uxbZ+ETpZrwurg7U7G1lW2zEmaQ3PrO7oC6VQc3GK2CU2997uVRaUJAoeyfEa8MibQ1rVoCES6/umWgxMzhBHtCC8idVMdsE1jdGiNWMvODO9UQ7ccJsjDQ5Y2rVHJZQ4tBeGruzM7JVw4+WxtR220EbtoErVEY0/NelkfSbTpSqMmpC14xYUz/AF/Bb41HPQK1WklC7QHgG/YFRlwCYdgEm4QmA8d8EmPYAwhBOF3iOW3qsoWn/eqB1i8CjLzwifXzAubImCq9Ejed3fBeNGQ+LKwJP03cCH14L+KAHfMbE//14uN4hAH/3r0313MHLZzL9BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-01T00:31:36.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" version="20.6.0" etag="lBDJRVGiVb3z7tq3Wi6d" type="github">
+  <diagram id="_kjpvkQvudG4ToWyPDEm" name="Página-1">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iw2vu_5kICMit4lKwRA0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-1" target="iw2vu_5kICMit4lKwRA0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Início&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-2" target="iw2vu_5kICMit4lKwRA0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-2" value="Informe o salário" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-3" target="iw2vu_5kICMit4lKwRA0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-3" target="iw2vu_5kICMit4lKwRA0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-3" value="salario&lt;=1903,98" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-5" target="iw2vu_5kICMit4lKwRA0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-5" value="Isento de imposto" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="305" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;V&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="266" y="305" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-11" target="iw2vu_5kICMit4lKwRA0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-11" target="iw2vu_5kICMit4lKwRA0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-11" value="salario&amp;lt;=2.826,65" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-12" target="iw2vu_5kICMit4lKwRA0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-12" value="Alíquota de 7,5%" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="455" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;V&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="266" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-19" value="FIM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-23" target="iw2vu_5kICMit4lKwRA0-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-23" target="iw2vu_5kICMit4lKwRA0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-23" value="salario&amp;lt;=3.751,05" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-24" target="iw2vu_5kICMit4lKwRA0-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-24" value="Alíquota de 15%" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;V&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="266" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;F&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="165" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-29" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;F&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="165" y="550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-34" target="iw2vu_5kICMit4lKwRA0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-34" target="iw2vu_5kICMit4lKwRA0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-34" value="salario&amp;lt;=4.664,68" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="720" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-35" target="iw2vu_5kICMit4lKwRA0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-35" value="Alíquota de 22,5%" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="735" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;V&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="266" y="735" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-38" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;F&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="165" y="685" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-42" target="iw2vu_5kICMit4lKwRA0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-42" value="salario&amp;gt;4.664,68" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="iw2vu_5kICMit4lKwRA0-43" target="iw2vu_5kICMit4lKwRA0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-43" value="Alíquota de 27,5%" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="336" y="875" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;V&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="266" y="875" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iw2vu_5kICMit4lKwRA0-46" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;F&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="165" y="830" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
