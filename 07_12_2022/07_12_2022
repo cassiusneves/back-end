@@ -1,0 +1,33 @@
+
+-------------------------------------------------------------------------------------------------------------------
+
+Tabela 5.3 Tabela-Verdade dos operadores apresentados na Tabela 5.2.
+A       B       .NÃO.A  .NÃO. B     A .OU. B    A .E. B
+.F.     .F.     .V.     .V.         .F.         .F.
+.F.     .V.     .V.     .F.         .V.         .F.
+.V.     .F.     .F.     .V.         .V.         .F.
+.V.     .V.     .F.     .F.         .V.         .V.
+
+-------------------------------------------------------------------------------------------------------------------
+
+Tabela verdade
+
+NAO VERDADEIRO = FALSO
+NAO FALSO = VERDADEIRO
+
+VERDADEIRO E VERDAEIRO =  VERDADEIRO
+VERDADEIRO E FALSO = FALSO
+FALSO E FALSO = FALSO
+FALSO E VERDADEIRO = FALSO
+
+VERDADEIRO OU VERDADEIRO = VERDADEIRO
+VERDADEIRO OU FALSO = VERDADEIRO
+FALSO OU FALSO = FALSO
+FALSO OU VERDAEIRO = VERDEIRO
+
+-------------------------------------------------------------------------------------------------------------------
+
+~~ Operadores relacionais. ~~
+OBS.
+"<>" OU  "!==" OU "!="      quer dizer diferente
+
